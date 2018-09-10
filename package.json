@@ -1,5 +1,5 @@
 {
-  "name": "vue-drag-directive",
+  "name": "vue-drag-element-directive",
   "version": "1.0.0",
   "description": "Directive for dragging element inside the view port",
   "main": "index.js",
@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/arunsivan/vue-drag-directive/issues"
   },
-  "homepage": "https://github.com/arunsivan/vue-drag-directive#readme"
+  "homepage": "https://github.com/arunsivan/vue-drag-directive#readme",
+  "keywords": [
+    "vue",
+    "drag",
+    "draggable",
+    "drop",
+    "directive",
+    "drag",
+    "window",
+    "drag",
+    "accross",
+    "viewport"
+  ]
 }

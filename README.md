@@ -22,7 +22,7 @@ directives: {
 
 ## Usage
 
-There's nothing you need to do in JavaScript except for installation. To use the plugin, simply use the `v-chat-scroll` directive.
+There's nothing you need to do in JavaScript except for installation. To use the plugin, simply use the `v-drag` directive.
 
 ``` html
 
