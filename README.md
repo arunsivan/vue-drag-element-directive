@@ -4,7 +4,7 @@ A Directive for dragging element accross the DOM inside the view port.
 
 ## Installation
 
-- NPM / Yarn
+- npm install
 Run `npm install --save vue-drag-element-directive`
 
 - With Modules
